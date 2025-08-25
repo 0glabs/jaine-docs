@@ -119,9 +119,9 @@ Jaine supports various perpetual swap contracts, with leverage varying based on 
 - **Limit Orders**: Execute at specified price or better
 - **Stop-Loss Orders**: Automatic risk management
 - **Take-Profit Orders**: Lock in gains automatically
+- **Post-Only Orders**: Rest liquidity on the order book
 
 ### Coming in Phase 2
-- Post-only orders
 - Fill-or-Kill orders
 - Iceberg orders
 - Advanced order combinations
