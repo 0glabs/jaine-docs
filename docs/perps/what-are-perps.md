@@ -124,7 +124,6 @@ Jaine supports various perpetual swap contracts, with leverage varying based on 
 ### Coming in Phase 2
 - Fill-or-Kill orders
 - Iceberg orders
-- Advanced order combinations
 
 ## Related Topics
 
